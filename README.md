@@ -1,7 +1,5 @@
 <h1>Hi, I'm Ahsan</h1>
-<p>A Software Engineering Student at Pak-Austria-Fachhochschule Institute of Applied Sciences and Technology</p>
-# 💫 About Me:
-I amBackend Developer and DevOps Engineer.
+<p>A Software Engineering Student at Pak-Austria-Fachhochschule Institute of Applied Sciences and Technology.Backend Developer and DevOps Engineer.</p
 
 
 # 💻 Tech Stack:
